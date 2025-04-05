@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#text {
+    font-size: 18px;
+    color: blue;
+}
+
+.changedStyle {
+    color: red;
+    font-weight: bold;
+}
+
+.newElement {
+    font-size: 20px;
+    color: green;
+}
